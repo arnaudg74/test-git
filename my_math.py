@@ -22,6 +22,8 @@ def soustraction(a, b):
 
     Returns:
         int ou float: La différence entre a et b.
+
+        ce ci est une amelioration
     """
     return a - b
 
